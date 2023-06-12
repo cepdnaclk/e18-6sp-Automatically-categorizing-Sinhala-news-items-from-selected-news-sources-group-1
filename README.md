@@ -2,6 +2,8 @@ ___
 # Automatically-categorizing-Sinhala-news-items-from-selected-news-sources
 ___
 
-## Please refer the instructions in below URL:
+# Group members
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+  E/18/149
+  E/18/150
+  E/18/
