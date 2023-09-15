@@ -17,7 +17,11 @@ Thank you for your interest, and we look forward to collaborating with you to en
 ## Problem
 ![image](https://github.com/cepdnaclk/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources-group-1/assets/73745793/c1342466-212f-43a8-8146-9bb71ae3d432)
 
+## Proposed Solution
+![image](https://github.com/cepdnaclk/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources-group-1/assets/73745793/fbcc83e3-3e29-4913-8e61-8b97a78817ef)
 
+## Web Application
+![image](https://github.com/cepdnaclk/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources-group-1/assets/73745793/1c509ba5-caf4-42ba-bd04-5c70822ccafc)
 
 
 # Group members
